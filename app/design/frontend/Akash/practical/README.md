@@ -14,7 +14,7 @@ php bin/magento s:up && php bin/magento s:s:d -f && php bin/magento c:f && php b
 Run the following command if the project is in **default mode**
 php bin/magento s:up && php bin/magento s:s:d && php bin/magento c:f && php bin/magento c:c
 
-After installing the theme, you can verify that the installation succeeded by going to the Magento 2 back-end and navigating to **Content -> Design -> Themes**. If it listed there, you should be happy.
+After installing the theme, you can verify that the installation succeeded by going to the Magento 2 back-end and navigating to **Content -> Design -> Themes**. If it listed there.
 
 To set this theme for development purposes on the storefront, go to: **Content -> Design -> Configuration** and set the theme on the Store View you wish to use. Do not forget to flush the cache afterwards.
 
@@ -28,7 +28,7 @@ Navigate to **Catalog -> Product -> open product -> content ->  Short Descriptio
 Navigate to **Catalog -> Product -> open product -> content ->  Images And Videos**.
 
 ### Preview
-Desktop: https://www.awesomescreenshot.com/image/26612970?key=eba684b666df3d6c1b110d49417e0a2b
-Mobile: https://www.awesomescreenshot.com/image/26612985?key=ee914e8acec5cf4f6fb1fc620350c862
+Desktop: https://tinyurl.com/2ddwp5bf
+Mobile: https://tinyurl.com/243sap93
 ```
 
